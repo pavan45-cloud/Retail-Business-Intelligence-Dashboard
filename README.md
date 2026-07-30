@@ -129,11 +129,7 @@ This project uses the **Sample Superstore** dataset containing:
 
 ---
 
-## 📸 Screenshots
 
-Dashboard screenshots will be added soon.
-
----
 
 ## 🔮 Future Improvements
 
